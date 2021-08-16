@@ -1,7 +1,7 @@
 ### Hi there 👋 This is Pooja
 
 - 📫 Reach me out!: pooja_kamble@hotmail.com
-- 
+
 ## 🏆 Profile Trophies:
 <p align="center"> <a href="https://github.com/poojajkamble/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poojajkamble&theme=darkhub" alt="poojajkamble" /></a></p>
 
